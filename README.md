@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Angular and NodeJS
 - 💞️ I’m looking to collaborate on Lead Websites
 - 📫 How to reach me here or me (at) wojciechkoper (dot) com
+- ✓ [websites&apps](https://wudoka.com)
+- ✓ [ecommerce](https://ecadvise.com)
+
 
 <!---
 realwudoka/realwudoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
