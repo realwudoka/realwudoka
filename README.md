@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @realwudoka
 - 👀 I’m interested in Ruby on Rails, Machine Learning, DevOps, Breaking Rules and Sailing ⛵️
-- 🌱 I’m currently learning Angular and NodeJS
 - 💞️ I’m looking to collaborate on Lead Websites
 - 📫 How to reach me here or me (at) wojciechkoper (dot) com
 - ✓ [websites&apps](https://wudoka.com)
