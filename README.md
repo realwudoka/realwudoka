@@ -4,6 +4,7 @@
 - 📫 How to reach me here or me (at) wojciechkoper (dot) com
 - ✓ [websites&apps](https://wudoka.com)
 - ✓ [ecommerce](https://ecadvise.com)
+- ✓ [uk company](https://wudoka.co.uk)
 
 
 <!---
